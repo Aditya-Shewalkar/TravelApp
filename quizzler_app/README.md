@@ -1,6 +1,6 @@
-# quizzler_app
+# TravelApp
 
-Quiz app
+Travel app
 
 ## Getting Started
 
